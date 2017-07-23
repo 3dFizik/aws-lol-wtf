@@ -1,2 +1,2 @@
-# aws-lol-wtf
+# lol-wtf-me
 lol wuuuut
