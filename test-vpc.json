@@ -163,7 +163,16 @@
              ]
           }
         }
-    },
+        "InstanceType": {
+        "Type": "String",
+        "Description": "Type of instance",
+        "Default": "t2.micro"
+      },
+	
+	
+	
+	},
+	
 
     "Outputs": {
         "VpcId": {
